@@ -137,6 +137,10 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+.sect[data-open="true"] .line {
+    background: blue;
+}
+
 .arrow{
     cursor: pointer;
 }
